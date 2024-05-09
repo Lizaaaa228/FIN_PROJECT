@@ -1,0 +1,2 @@
+2024-05-06 17:17:47,716 FILE: database.py IN: select_n_last_messages MESSAGE: '>' not supported between instances of 'NoneType' and 'int'
+2024-05-06 17:17:47,816 FILE: yandex_gpt.py IN: count_gpt_tokens MESSAGE: 'tokens'
